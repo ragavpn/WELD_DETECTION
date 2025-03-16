@@ -1,0 +1,8 @@
+batch_size=32
+learning_rate=0.0001
+checkpoint_path=checkpoint.pth
+best_model_path=best_model.pth
+hyperparam_file=hyperparams.txt
+train_data_path=/home/ragavpn/Desktop/HYPOTHESIS/CODING/PROJECTS/BHEL/Dataset/Train
+train_split=0.8
+best_loss=0.029507644230304567
